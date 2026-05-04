@@ -39,15 +39,12 @@ This project implements a **Geospatial Logistics Optimization System** using Pyt
 
 ---
 
-## Preview  
-<!-- Add your screenshot here -->
-![Map Preview](outputs/map.png)
-
----
-
 ## Future Work  
 - Multi-vehicle VRP (OR-Tools)  
 - Real-time traffic integration  
 - Streamlit interactive dashboard  
+
+## License  
+This project is licensed under the MIT License.
 
 © mdkhademali
