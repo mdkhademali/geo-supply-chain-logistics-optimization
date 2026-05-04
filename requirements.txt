@@ -1,0 +1,6 @@
+geopandas
+networkx
+osmnx
+folium
+numpy
+pandas

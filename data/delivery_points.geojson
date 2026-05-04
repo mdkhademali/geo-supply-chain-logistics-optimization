@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature", "properties": {"id": "D1"}, "geometry": {"type": "Point", "coordinates": [89.30, 24.38]}},
+    {"type": "Feature", "properties": {"id": "D2"}, "geometry": {"type": "Point", "coordinates": [89.20, 24.36]}},
+    {"type": "Feature", "properties": {"id": "D3"}, "geometry": {"type": "Point", "coordinates": [89.27, 24.35]}}
+  ]
+}
