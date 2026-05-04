@@ -44,6 +44,8 @@ This project implements a **Geospatial Logistics Optimization System** using Pyt
 - Real-time traffic integration  
 - Streamlit interactive dashboard  
 
+---
+
 ## License  
 This project is licensed under the MIT License.
 
